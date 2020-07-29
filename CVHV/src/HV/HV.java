@@ -17,5 +17,6 @@ public class HV {
         System.out.println("Chu vi hình vuông là: "+ tinhChuVi(canh));
         System.out.println("----------------------------");
         System.out.println("Chương trình nay được đăng tại Freetuts.net");
+        System.out.println("Chương trình đình tin");
     }
 }
