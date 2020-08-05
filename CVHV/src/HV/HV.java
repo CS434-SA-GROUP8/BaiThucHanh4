@@ -16,7 +16,6 @@ public class HV {
         System.out.println("Diện tích hình vuông là: " + tinhDienTich(canh));
         System.out.println("Chu vi hình vuông là: "+ tinhChuVi(canh));
         System.out.println("----------------------------");
-        System.out.println("Chương trình nay được đăng tại Freetuts.net");
-        System.out.println("Chương trình đình tin");
+        System.out.println("Chương trình Ngô Thanh Tú");
     }
 }
