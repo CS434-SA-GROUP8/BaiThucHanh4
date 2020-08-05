@@ -1,5 +1,6 @@
 package HCN;
 import java.util.Scanner;
+
 public class CHVHCN {
 	public static void main (String[] args)
     {
