@@ -11,6 +11,6 @@ public class CHVHCN {
         double area = length*width;
         System.out.println("Diện tích hình chữ nhật là:"+area);
         System.out.println("------------------------------------------");
-        System.out.println("Chương trình này được đăng tại Freetuts.net");
+        System.out.println("Chương trình Trần Đình Tin");
     }
 }
